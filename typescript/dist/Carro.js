@@ -21,4 +21,5 @@ var Carro = /** @class */ (function () {
     return Carro;
 }());
 exports.default = Carro;
+//comentário
 exports.qualquer_coisa = 'Qualquer coisa';

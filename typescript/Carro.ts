@@ -19,4 +19,6 @@ export default class Carro{
     }
 }
 
+//comentário
+
 export let qualquer_coisa : string = 'Qualquer coisa'
