@@ -1,0 +1,10 @@
+"use strict";
+var mensagem = "Seja bem vindo!";
+var temporadasFriends = 10;
+var estudandoAngular = true;
+var listaFrutas = ['Uva', 'Banana', 'Abacaxi'];
+var listaFrutasComColchete = ['Uva', 'Banana', 'Abacaxi'];
+var notasDasProvas = [7.5, 8, 9];
+var notasDasProvasComColchetes = [7.5, 8, 9];
+mensagem += "Rovalro";
+console.log(mensagem);
